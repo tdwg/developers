@@ -1,5 +1,3 @@
-https://app.slack.com/client/T043NT1RH/CPV8TK16W
-
 _The present text is initial food for thought for the purposes of discussion only, it does not represent the concensus view of the Developers interest group.  Please consider everything here TODO target for refinement.  As an example for what we hope to see here please see_ [other interest groups](https://www.tdwg.org/community/) _for other interest groups._
 
 # Developers - A TDWG Interest Group for Biodiversity Informatics Developers
