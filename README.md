@@ -5,9 +5,9 @@ _The present text is initial food for thought for the purposes of discussion onl
 *TODO* See [Responsibilities of Conveners](https://www.tdwg.org/community/management/).
 
 ## Quick start
-* Star/follow this repository.
+* Star/follow this repository
 * Read Contributing
-* Engage the [Slack channel](http://tdwg.slack.com/messages/developers) with your contribution to this community ([request an account](mailto:<secretariat@tdwg.org>)).
+* Engage the [Slack channel](http://tdwg.slack.com/messages/developers) with your contribution to this community ([request an account](mailto:<secretariat@tdwg.org>))
 * Browse or add [issues](https://github.com/tdwg/developers/issues) 
 * Nominate yourself (open an issue) to be a maintainer of this repository
 * Read the rest of this document
@@ -16,7 +16,7 @@ _The present text is initial food for thought for the purposes of discussion onl
 There are a number of practical, personal, and theoretical advantages to building a community of developers addressing the particular needs of biodiversity science. 
 
 ### Convening a supportive, diverse, and inclusive community
-As in any community there are challenges and hurdles that are particular to the work that happens in that community.  A shared forum for expressing those challenges and how they were overcome, or abandoned, can be both informative and therapeutic. More formally, please read our [code of conduct](CODE_OF_CONDUCT.md).
+As in any community there are challenges and hurdles that are particular to the work that happens in that community.  A shared forum for expressing those challenges and how they were overcome, or abandoned, can be both informative and therapeutic. More formally, please read our [code of conduct TODO: choose/formalize code](CODE_OF_CONDUCT.md).
 
 #### A note on closed-source and commercial software
 While many in the group would argue that open-source software and practices are the ideal to which we should strive, the group acknowledges that there biodiversity is vast, and we should not de-facto exclude tools and approaches that are partially or fully closed-source, and certainly not exclude those that are partially or fully commercial. Identifying the role of closed-source and/or commercial products, and embracing the idea that they will always exists, better positions our efforts to ensuring that those efforts more fully integrate into the broader, more open and interoperable "ecosystem" of biodiversity serving software standards. A deep understanding of closed products allows us to better communicate their impact to the people who use them and to those who mandate their use.
