@@ -1,4 +1,4 @@
-_The present text is initial food for thought for the purposes of discussion only, it does not represent the concensus view of the Developers interest group.  Please consider everything here TODO target for refinement.  As an example for what we hope to see here please see_ [other interest groups](https://www.tdwg.org/community/) _for other interest groups._
+_The present text is initial food for thought for the purposes of discussion only, it does not represent the concensus view of the Developers interest group.  Please consider everything here TODO target for refinement.  As an example for what we hope to see here please see_ [other interest groups](https://www.tdwg.org/community/) _for exemplar charters._
 
 # Developers - A TDWG Interest Group for Biodiversity Informatics Developers
 ## Conveners
@@ -31,7 +31,7 @@ Standards are arguably of little worth, or at best interesting theoretical exper
 Biodiversity science is a field that embraces history. Similarly, we should look deep into the future. As developers we know our software will be obsolete if not minutes then days or years after it is put in motion.  How do we embrace the idea of planned obsolescence?  How do we create software that is adaptable over decades or millennia?  If we are honest about what our software can do, then the people that use it are better prepared when it needs resources to be updated, becomes obsolete, or flat out fails.
 
 ## Contributing 
-Follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+Follow the [TODO: Code of Conduct](CODE_OF_CONDUCT.md).
 
 As developers we are technically inclined, therefore we should:
 * *TODO*
@@ -41,11 +41,12 @@ As developers we are technically inclined, therefore we should:
 
 ### Community guidelines
 As a means of trending our efforts to the practical and generalizable please consider the following as you engage:
-* *TODO: clarify, evolve, etc. the guidelines*. Follow the guidelines for submitting issues. In general when you submit an issues imagine/state both the role and the problem and state these in the title, e.g. "*As a* Python developer *I need a* X *to do* Y".
+* *TODO: clarify, evolve, etc. the guidelines*. 
+* Follow the guidelines for submitting issues. In general when you submit an issue imagine/state both the role and the problem and include these in the title, e.g. "*As a* Python developer *I need a* X *to do* Y".
 * Try to keep focused on tools and questions that are inherently tied to the biological domain. There are many, many other support forums that are better, broader solutions to many questions. _This will be very difficult_, so please don't dissuade would-be members who initially are not following this guideline.
 * Consider promoting "small" shareable code libraries and solutions rather than large, integrated specific software packages. The group does not want to become a forum promoting one software platform over another (but see _Code speaks loud_ below). If the group gains traction, then we may create specific forums for announcements and or more casual and open conversations.
-* *Code speaks loud*. Presenting well thought out demonstrations in code as to why something "needs improvement" is a wonderful contribution, it's also a good way to provide constructive criticism.
-* As we communicate strive to look deeper than the commonly espoused memes. For example "we don't want to re-invent the wheel", "we need to be more efficient", and "we need a scalable industrial solution rather than boutique solutions" aren't particularly useful statements on their own.  If we don't reinvent the wheel, how will we know we got it right? If we are incredibly efficient but our outcome has no meaning, that's a problem. No technology scales to biology, and if we had only one, then it's a monoculture at an extreme risk of collapse.
+* *Code speaks loud*. Presenting a well thought out bit of code that demonstrates why something "needs improvement" is a wonderful contribution, it's also a good way to provide constructive criticism.
+* As we communicate, strive to look deeper than the commonly espoused memes. For example "we don't want to re-invent the wheel", "we need to be more efficient", and "we need a scalable industrial solution rather than boutique solutions" aren't particularly useful statements on their own.  If we don't reinvent the wheel, how will we know we got it right? If we are incredibly efficient but our outcome has no meaning, that's a problem. No technology scales to biology, and if we had only one, then it's a monoculture at an extreme risk of collapse.
 * Think of this project as meta-development and promote best practices by using your best practices as you help to build the community. For example you understand that a "+1" mechanism on issues is better than adding a comment, so you use "+1".
 * Don't troll ("Use VIM, not Emacs, duh!.").
 
@@ -74,6 +75,6 @@ The Developers interest group sees software as the bridge between biological sta
 
 ## Resources
 * [This Developers repository](https://github.com/tdwg/developers).
-* [Joins the Slack channel](https://tdwg.slack.com)
+* [Join the Slack channel](https://tdwg.slack.com/messages/developers)
 * [Request a Slack account](mailto:<secretariat@tdwg.org>)
 
