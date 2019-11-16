@@ -24,6 +24,8 @@ While many in the group would argue that open-source software and practices are 
 ### Sharing code
 We have collectively shared ideas, algorithms, and by reference to standards similar outcomes in our software, but to-date we are, frankly, terrible at sharing code amongst our software. We are not just interested in sharing any code, but rather code that specifically _intersects the biological domain_. For example, many developers may use some specific database platform, but those platforms have nothing inherently biological about them. A very fast binary that parses scientific names, on the other hand, is an great example of what can be shared among software packages.
 
+See specific pages about [tools and libraries](./Tools.md), [code snippets](./Snippets.md) and [Tips and lessons learned](./Tips.md).
+
 ### Moving software development closer to data-standard development
 Standards are arguably of little worth, or at best interesting theoretical experiments, if they are not implemented. It follows that the development _process_ that integrates standards is logically a process that is part of standard development itself. How can we more closely integrate the two?
 
