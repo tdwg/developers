@@ -6,8 +6,8 @@ _The present text is initial food for thought for the purposes of discussion onl
 
 ## Quick start
 * Star/follow this repository
+* Join the [Slack channel](http://tdwg.slack.com/messages/developers) with your contribution to this community. Email <secretariat@tdwg.org> to get an invitation to Slack.
 * Read Contributing
-* Engage the [Slack channel](http://tdwg.slack.com/messages/developers) with your contribution to this community ([request an account](mailto:<secretariat@tdwg.org>))
 * Browse or add [issues](https://github.com/tdwg/developers/issues) 
 * Nominate yourself (open an issue) to be a maintainer of this repository
 * Read the rest of this document
